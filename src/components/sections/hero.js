@@ -59,13 +59,13 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Prahas Pattem.</h2>;
-  // const three = <h3 className="big-heading">a Computer Science Student at Purdue University.</h3>;
-  const three = <h3 className="big-heading"> </h3>;
+  const two = <h2 className="big-heading">Prahas Pattem-</h2>;
+  const three = <h3 className="medium-heading">Computer Science at Purdue University.</h3>;
+  // const three = <h3 className="big-heading"> </h3>;
   const four = (
     <>
       <p>
-        I'm a Computer Science Student at at Purdue University.{' '}
+        {/* I'm a Computer Science Student at at Purdue University.{' '} */}
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a> */}
@@ -76,10 +76,10 @@ const Hero = () => {
     <a
       className="email-link"
       // href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      href="/#contact"
+      href="/#about"
       // target="_blank"
       rel="noreferrer">
-      Feel Free to Contact Me!
+      Learn More
     </a>
   );
 

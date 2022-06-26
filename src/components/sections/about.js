@@ -140,7 +140,7 @@ const About = () => {
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS! */}
               Hi! I'm <a> Prahas Pattem,</a> a computer science major and mathematics minor at
-              Purdue University.
+              Purdue University. I will be graduating in December 2023.
             </p>
 
             <p>
