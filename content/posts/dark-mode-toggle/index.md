@@ -40,14 +40,12 @@ Dark mode toggle without the flash of default theme. Important bits:
         aria-label="Activate dark mode"
         title="Activate dark mode"
       >
-        <!--
-        <svg class="light-mode">
+        <!-- <svg class="light-mode">
           <use xlink:href="#sun"></use>
         </svg>
         <svg class="dark-mode">
           <use xlink:href="#moon"></use>
-        </svg>
-        -->
+        </svg> -->
       </button>
     </div>
 

@@ -1,10 +1,10 @@
 ---
 date: '2015-12-21'
 title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
+company: 'AVS Consultants Inc'
+location: 'Rolling Meadows, Illinois'
 range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+url: 'https://avsconsultants.com/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
