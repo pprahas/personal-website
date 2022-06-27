@@ -125,7 +125,15 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Eleventy',
+    'Node.js',
+    'WordPress',
+    'Flask',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -139,8 +147,9 @@ const About = () => {
               interest in web development started back in 2012 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS! */}
-              Hi! I'm <a> Prahas Pattem,</a> a computer science major and mathematics minor at
-              Purdue University. I will be graduating in December 2023.
+              Hi! I'm <a> Prahas Pattem</a>, an undergraduate student at Purdue University with a
+              major in computer science and a minor in mathematics. I will be graduating in December
+              2023.
             </p>
 
             <p>
@@ -162,7 +171,7 @@ const About = () => {
               &amp; React.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few of my skills:</p>
           </div>
 
           <ul className="skills-list">

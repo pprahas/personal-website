@@ -59,16 +59,14 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Prahas Pattem-</h2>;
-  const three = <h3 className="medium-heading">Computer Science at Purdue University.</h3>;
+  const two = <h2 className="big-heading">Prahas Pattem.</h2>;
+  const three = <h3 className="big-heading">I build things for the web.</h3>;
   // const three = <h3 className="big-heading"> </h3>;
   const four = (
     <>
       <p>
-        {/* I'm a Computer Science Student at at Purdue University.{' '} */}
-        {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a> */}
+        I'm a <a>Computer Science</a> Student at <a>Purdue University</a>. Currently, I'm looking
+        for internship opportunites for Summer 2023.
       </p>
     </>
   );

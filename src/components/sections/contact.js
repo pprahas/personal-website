@@ -63,7 +63,7 @@ const Contact = () => {
         {/* Although I’m not currently looking for any new opportunities, my inbox is always open.
         Whether you have a question or just want to say hi, I’ll try my best to get back to you! */}
         I'm currently looking for internship opportunities for Summer 2023. Feel free to connect
-        with me at <a>efef</a>
+        with me at <a>prado22@protonmail.com</a> or <a>(765)-250-0648</a>
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
