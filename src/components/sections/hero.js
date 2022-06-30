@@ -3,6 +3,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
+import TypeWriter from 'typewriter-effect';
 // import { email } from '@config';
 
 const StyledHeroSection = styled.section`
@@ -60,7 +61,18 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Prahas Pattem.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  // const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = (
+    <h3 className="big-heading">
+      <span>
+        <TypeWriter
+          onInit={typewriter => {
+            typewriter.typeString("I'm a Programmer.").pauseFor(2000).deleteAll().start();
+          }}
+        />
+      </span>
+    </h3>
+  );
   // const three = <h3 className="big-heading"> </h3>;
   const four = (
     <>
