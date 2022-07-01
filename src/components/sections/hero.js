@@ -3,7 +3,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
-import TypeWriter from 'typewriter-effect';
+import Typed from 'react-typed';
 // import { email } from '@config';
 
 const StyledHeroSection = styled.section`
@@ -64,13 +64,8 @@ const Hero = () => {
   // const three = <h3 className="big-heading">I build things for the web.</h3>;
   const three = (
     <h3 className="big-heading">
-      <span>
-        <TypeWriter
-          onInit={typewriter => {
-            typewriter.typeString("I'm a Programmer.").pauseFor(2000).deleteAll().start();
-          }}
-        />
-      </span>
+      I'm a {''}
+      <Typed strings={[' developer.', ' programmer.']} typeSpeed={100} backSpeed={150} loop />
     </h3>
   );
   // const three = <h3 className="big-heading"> </h3>;
