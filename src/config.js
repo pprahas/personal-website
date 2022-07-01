@@ -3,12 +3,16 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'Home',
+      url: '/',
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/prado156',
     },
 
     // {
-    //   name: 'Instagram',
+    //   name: 'Star',
     //   url: 'https://www.instagram.com/bchiang7',
     // },
     // {
