@@ -1,9 +1,9 @@
 ---
-date: '2015-12-21'
+date: '2021-8-21'
 title: 'Creative Technologist Co-op'
 company: 'AVS Consultants Inc'
 location: 'Rolling Meadows, Illinois'
-range: 'July - December 2015'
+range: 'August 2021 - December 2021'
 url: 'https://avsconsultants.com/'
 ---
 

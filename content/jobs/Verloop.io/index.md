@@ -1,5 +1,5 @@
 ---
-date: '2018-04-01'
+date: '2022-04-01'
 title: 'Software Engineering Intern'
 company: 'Verloop.io'
 location: 'Northeastern University'
