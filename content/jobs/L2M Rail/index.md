@@ -1,6 +1,6 @@
 ---
 date: '2020-12-21'
-title: 'Software Engineering and Research Intern'
+title: 'Software Engineering Intern'
 company: 'L2M Rail '
 location: 'Bengaluru, India'
 range: 'June 2020 - August 2020'
