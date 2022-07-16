@@ -2,10 +2,10 @@ module.exports = {
   email: 'prado22@protonmail.com',
 
   socialMedia: [
-    {
-      name: 'Home',
-      url: '/',
-    },
+    // {
+    //   name: 'Home',
+    //   url: '/',
+    // },
     {
       name: 'GitHub',
       url: 'https://github.com/prado156',
