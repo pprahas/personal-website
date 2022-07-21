@@ -147,7 +147,7 @@ const About = () => {
               interest in web development started back in 2012 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS! */}
-              Hi! I'm <a> Prahas Pattem</a>, an undergraduate student at Purdue University with a
+              Hi! I am <a> Prahas Pattem</a>, an undergraduate student at Purdue University with a
               major in computer science and a minor in mathematics. I will be graduating in December
               2023.
             </p>
@@ -163,12 +163,11 @@ const About = () => {
             </p> */}
 
             <p>
-              I've had the privilege of working as a <a>Software Engineering Intern </a> at{' '}
-              <a>a startup </a> that builds Conversational AI for Customer Support and{' '}
-              <a>another startup</a> that develops Cyber-Physical Systems for railways.
-              Additionally, I have worked as a <a>Research and Development Intern</a> at a{' '}
-              <a> consultant company </a>. You can find out more about my technical experience{' '}
-              <a href="/#jobs">here.</a>
+              I have worked as a <a>Software Engineering Intern </a> at <a>a startup </a> that
+              builds Conversational AI for Customer Support and <a>another startup</a> that develops
+              Cyber-Physical Systems for railways. Additionally, I have also worked as a{' '}
+              <a>Research and Development Intern</a> for a <a> consultant company </a>. You can find
+              out more about my technical experience <a href="/#jobs">here.</a>
             </p>
 
             <p>
@@ -180,12 +179,17 @@ const About = () => {
               &amp; React.
             </p>
 
-            <p>Here are a few of my skills:</p>
+            <p>
+              I am currently looking for <a>internship opportunities</a> for <a>Summer 2023</a>. .
+              If you would like to talk to me, you can contact me <a href="/#contact">here.</a>
+            </p>
+
+            {/* <p>Here are a few of my skills:</p> */}
           </div>
 
-          <ul className="skills-list">
+          {/* <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
+          </ul> */}
         </StyledText>
 
         <StyledPic>
