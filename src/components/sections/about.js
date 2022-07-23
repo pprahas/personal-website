@@ -180,8 +180,8 @@ const About = () => {
             </p>
 
             <p>
-              I am currently looking for <a>internship opportunities</a> for <a>Summer 2023</a>. .
-              If you would like to talk to me, you can contact me <a href="/#contact">here.</a>
+              I am currently looking for <a>internship opportunities</a> for <a>Summer 2023</a>. You
+              can find out my contact details <a href="/#contact">here.</a>
             </p>
 
             {/* <p>Here are a few of my skills:</p> */}
