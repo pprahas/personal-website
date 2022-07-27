@@ -13,4 +13,4 @@ tech:
   - AWS
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A full stack food delivery application that allows customers to order food from local restaurants. Utilized Lambda, S3, and API Gateway from AWS in Python for the backend, synced application to a MySQL database to store data, and completed frontend in JavaScript with HTML/CSS.
