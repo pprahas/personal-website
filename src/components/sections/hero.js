@@ -62,21 +62,41 @@ const Hero = () => {
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Prahas Pattem.</h2>;
   // const three = <h3 className="big-heading">I build things for the web.</h3>;
+  // const three = (
+  //   <h3 className="big-heading">
+  //     I'm a {''}
+  //     <Typed strings={[' I build things for the web.', ' programmer.']} typeSpeed={100} backSpeed={150} loop />
+  //   </h3>
+  // );
   const three = (
     <h3 className="big-heading">
-      I'm a {''}
-      <Typed strings={[' developer.', ' programmer.']} typeSpeed={100} backSpeed={150} loop />
+      <Typed strings={['Computer Science at Purdue.']} typeSpeed={100} backSpeed={150} />
     </h3>
   );
+  // const three = <h3 className="big-heading"> </h3>;
+  // const four = (
+  //   <>
+  //     <p>
+  //       I am a Computer Science Student at{' '}
+  //       <a href="https://www.cs.purdue.edu" target="_blank">
+  //         Purdue University
+  //       </a>
+  //       . Currently, I am looking for internship opportunites for Summer 2023.
+  //     </p>
+  //   </>
+  // );
   // const three = <h3 className="big-heading"> </h3>;
   const four = (
     <>
       <p>
-        I'm a <a>Computer Science</a> Student at <a>Purdue University</a>. Currently, I'm looking
-        for internship opportunites for Summer 2023.
+        I have a passion for <a> high quality software </a> and I enjoy developing software
+        applications to solve problems. No matter what I'm working on I'm sure to bring my curiosity
+        and different thinking hats to whatever I do. Currently, I am looking for{' '}
+        <a> internship opportunites</a> for Summer 2023.
       </p>
     </>
   );
+
   const five = (
     <a
       className="email-link"
