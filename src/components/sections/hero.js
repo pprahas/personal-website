@@ -70,7 +70,7 @@ const Hero = () => {
   // );
   const three = (
     <h3 className="medium-heading">
-      <Typed strings={['a computer science student at Purdue.']} typeSpeed={100} backSpeed={150} />
+      <Typed strings={['a computer science student at Purdue.']} typeSpeed={75} />
     </h3>
   );
   // const three = <h3 className="big-heading"> </h3>;
@@ -90,9 +90,8 @@ const Hero = () => {
     <>
       <p>
         I have a passion for <a> high quality software</a> and I enjoy developing software
-        applications to solve problems. No matter what I'm working on I'm sure to bring my curiosity
-        and different thinking hats to whatever I do. Currently, I am looking for{' '}
-        <a> internship opportunites</a> for Summer 2023.
+        applications to solve problems. Currently, I am looking for <a> internship opportunites</a>{' '}
+        for Summer 2023.
       </p>
     </>
   );
