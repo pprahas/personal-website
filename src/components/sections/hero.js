@@ -59,8 +59,8 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Prahas Pattem.</h2>;
+  const one = <h1>Hi! I'm</h1>;
+  const two = <h2 className="big-heading">Prahas Pattem,</h2>;
   // const three = <h3 className="big-heading">I build things for the web.</h3>;
   // const three = (
   //   <h3 className="big-heading">
@@ -69,8 +69,8 @@ const Hero = () => {
   //   </h3>
   // );
   const three = (
-    <h3 className="big-heading">
-      <Typed strings={['Computer Science at Purdue.']} typeSpeed={100} backSpeed={150} />
+    <h3 className="medium-heading">
+      <Typed strings={['a computer science student at Purdue.']} typeSpeed={100} backSpeed={150} />
     </h3>
   );
   // const three = <h3 className="big-heading"> </h3>;
@@ -89,7 +89,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I have a passion for <a> high quality software </a> and I enjoy developing software
+        I have a passion for <a> high quality software</a> and I enjoy developing software
         applications to solve problems. No matter what I'm working on I'm sure to bring my curiosity
         and different thinking hats to whatever I do. Currently, I am looking for{' '}
         <a> internship opportunites</a> for Summer 2023.

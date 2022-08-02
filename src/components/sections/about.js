@@ -171,12 +171,8 @@ const About = () => {
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              No matter what I'm working on I'm sure to bring my curiosity and different thinking
+              hats to whatever I do.
             </p>
 
             <p>
