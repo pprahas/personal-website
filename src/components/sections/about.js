@@ -164,21 +164,28 @@ const About = () => {
 
             <p>
               I have worked as a <a>Software Engineering Intern </a> at a <a>startup </a> that
-              builds Conversational AI for Customer Support and a <a>corporation</a> that develops
-              Cyber-Physical Systems for railways. I have also worked as a{' '}
-              <a> Research and Development Intern</a> at a <a>consultant</a> <a>company.</a>
+              builds Conversational AI for Customer Support and at a <a>corporation</a> that
+              develops Cyber-Physical Systems for railways. I have also worked as a{' '}
+              <a> Research and Development Intern</a> at a <a>consultant company.</a>
             </p>
 
             <p>
-              No matter what I am working on, I am sure to bring my curiosity and different thinking
-              hats to everything I do.
+              I'm passionate about learning the latest and greatest technologies No matter what I am
+              working on, I am sure to bring my curiosity and different thinking hats to everything
+              I do.
             </p>
 
             <p>
+              I am currently open to <a>internship opportunities </a> within the software
+              engineering discipline for <a>Summer 2023.</a> If you think we would be a great match,
+              I'd love to hear from you! You can find my contact details{' '}
+              <a href="/#contact">here.</a>
+            </p>
+            {/* <p>
               I am currently looking for a <a>Software Engineering Internship</a> for Summer 2023.
               If you wish to get in touch, you can find my contact details{' '}
               <a href="/#contact">here.</a>
-            </p>
+            </p> */}
 
             {/* <p>Here are a few of my skills:</p> */}
           </div>
