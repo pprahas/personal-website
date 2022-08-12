@@ -13,4 +13,4 @@ tech:
   - AWS
 ---
 
-A full stack food delivery application that allows customers to order food from local restaurants. Utilized Lambda, S3, and API Gateway from AWS in Python for the backend, synced application to a MySQL database to store data, and completed frontend in JavaScript with HTML/CSS.
+A full stack <a> food delivery application</a> that allows customers to order food from local restaurants. Utilized Lambda, S3, and API Gateway from AWS in Python for the backend, synced application to a MySQL database to store data, and completed frontend in JavaScript with HTML/CSS.
