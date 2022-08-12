@@ -2,8 +2,8 @@
 date: '3'
 title: 'Avocado'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/prado156/Avocado'
+external: 'https://avocado-food-delivery.netlify.app/'
 tech:
   - Python
   - JavaScript
