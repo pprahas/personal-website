@@ -62,7 +62,9 @@ const Contact = () => {
       <p>
         {/* Although I’m not currently looking for any new opportunities, my inbox is always open.
         Whether you have a question or just want to say hi, I’ll try my best to get back to you! */}
-        Feel free to connect with me at <a>prado22@protonmail.com</a> or <a>(765) 250-0648</a>
+        I go by the handle @pprahas on <a> Github </a> and <a> LinkedIn.</a>
+        {'        '} Feel free to connect with me at <a>p.prahas@protonmail.com</a> or{' '}
+        <a>(765) 250-0648</a>
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

@@ -181,8 +181,11 @@ const About = () => {
             <p>
               I am currently open to <a>internship opportunities </a> within the software
               engineering discipline for <a>Summer 2023.</a> If you think we would be a great match,
-              I'd love to hear from you! You can find my contact details{' '}
-              <a href="/#contact">here.</a>
+              I'd love to hear from you!
+            </p>
+            <p>
+              You can find my contact details <a href="/#contact">here</a> and my resume{' '}
+              <a>here.</a>
             </p>
             {/* <p>
               I am currently looking for a <a>Software Engineering Internship</a> for Summer 2023.
