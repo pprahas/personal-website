@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'prado22@protonmail.com',
+  email: 'p.prahas@protonmail.com',
 
   socialMedia: [
     // {
@@ -8,7 +8,7 @@ module.exports = {
     // },
     {
       name: 'GitHub',
-      url: 'https://github.com/prado156',
+      url: 'https://github.com/pprahas',
     },
 
     // {
@@ -21,7 +21,7 @@ module.exports = {
     // },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/prado156',
+      url: 'https://www.linkedin.com/in/pprahas',
     },
     // {
     //   name: 'Codepen',

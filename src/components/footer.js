@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/prado156">
+        <a href="https://github.com/pprahas">
           <div>Designed &amp; Built by Prahas Pattem</div>
 
           {/* {githubInfo.stars && githubInfo.forks && (

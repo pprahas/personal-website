@@ -2,7 +2,7 @@
 date: '3'
 title: 'Avocado'
 cover: './demo.png'
-github: 'https://github.com/prado156/Avocado'
+github: 'https://github.com/pprahas/Avocado'
 external: 'https://avocado-food-delivery.netlify.app/'
 tech:
   - Python

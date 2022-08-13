@@ -185,7 +185,9 @@ const About = () => {
             </p>
             <p>
               You can find my contact details <a href="/#contact">here</a> and my resume{' '}
-              <a>here.</a>
+              <a href="/resume.pdf" target="_blank">
+                here.
+              </a>
             </p>
             {/* <p>
               I am currently looking for a <a>Software Engineering Internship</a> for Summer 2023.
