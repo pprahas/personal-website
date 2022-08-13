@@ -90,7 +90,7 @@ const Hero = () => {
     <>
       <p>
         I have a passion for <a> high quality software</a> and I enjoy developing software
-        applications to solve problems. Currently, I am looking for a
+        applications to solve real-life problems. Currently, I am looking for a{' '}
         <a> Software Engineering Internship</a> for Summer 2023.
       </p>
     </>
