@@ -151,7 +151,6 @@ const About = () => {
               major in computer science and a minor in mathematics. I will be graduating in December
               2023.
             </p>
-
             {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at <a>a start up </a>,{' '}
               <a href="https://starry.com/">2 start-ups</a>,{' '}
@@ -161,20 +160,24 @@ const About = () => {
               these days is building accessible, inclusive products and digital experiences at{' '}
               <a href="https://upstatement.com/">Upstatement</a> for a variety of clients.
             </p> */}
-
             <p>
               I have worked as a <a>Software Engineering Intern </a> at a <a>startup </a> that
               builds Conversational AI for Customer Support and at a <a>corporation</a> that
               develops Cyber-Physical Systems for railways. I have also worked as a{' '}
               <a> Research and Development Intern</a> at a <a>consultant company.</a>
             </p>
-
             <p>
+              I am currently working on a <a>Notes Sharing Social Media</a> <a>Application </a>{' '}
+              where university students can collaborate on assignments and share notes.
+              Additionally, I have developed a <a>Food Delivery Application </a> where civilians can
+              order food from local restaurants and a <a>Spotify Visualizer Application</a> that
+              visualizes personalized Spotify Data and creates new playlists of recommended tracks.
+            </p>
+            {/* <p>
               I'm passionate about learning the latest and greatest technologies No matter what I am
               working on, I am sure to bring my curiosity and different thinking hats to everything
               I do.
-            </p>
-
+            </p> */}
             <p>
               I am currently open to <a>internship opportunities </a> within the software
               engineering discipline for <a>Summer 2023.</a> If you think we would be a great match,
@@ -186,7 +189,6 @@ const About = () => {
               If you wish to get in touch, you can find my contact details{' '}
               <a href="/#contact">here.</a>
             </p> */}
-
             {/* <p>Here are a few of my skills:</p> */}
           </div>
 
