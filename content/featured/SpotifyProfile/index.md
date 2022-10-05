@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Spotify Visualizer'
 cover: './spotify.png'
 github: 'https://github.com/pprahas/Spotify-Visualizer'
 external: 'https://spotify-profile.herokuapp.com/'
