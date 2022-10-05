@@ -7,6 +7,6 @@ range: 'May 2022 - August 2022'
 url: 'https://verloop.io/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Point 2
-- Point 3
+- Developed an application that integrated with a multilingual Chatbot to facilitate compatibility between Instagram, WhatsApp, and Messenger for customer support.
+- Automated work for ~30% of the employees by implementing REST APIs using Facade Patterns and optimized the response time for APIs.
+- Built and deployed a backend server using FastAPI that serves to a frontend designed with React and TypeScript.
