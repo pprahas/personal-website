@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Spotify Profile'
-cover: './demo.png'
+cover: './spotify.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
@@ -15,4 +15,4 @@ tech:
   - GCP
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A <a>web application</a> for <a>visualizing personalized Spotify data,</a> and to create and save new playlists of recommended tracks based on your existing playlists and more.
