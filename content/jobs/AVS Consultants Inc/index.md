@@ -1,12 +1,12 @@
 ---
 date: '2021-8-21'
-title: 'Creative Technologist Co-op'
+title: 'Research and Development Intern'
 company: 'AVS Consultants Inc'
 location: 'Rolling Meadows, Illinois'
 range: 'August 2021 - December 2021'
 url: 'https://avsconsultants.com/'
 ---
 
-- Point 1
-- Point 2
-- Point 3
+- Conducted user group reviews and technology roadmap plannings to establish baselines against benchmarking for SAT Daily application.
+- Collaborated on building design docs with UML tools that incorporated the findings of technical discussions.
+- Mitigated technical risks by prototyping and PoC.

@@ -167,11 +167,11 @@ const About = () => {
               <a> Research and Development Intern</a> at a <a>consultant company.</a>
             </p>
             <p>
-              I am currently working on a <a>Notes Sharing Social Media</a> <a>Application </a>{' '}
-              where university students can collaborate on assignments and share notes.
-              Additionally, I have developed a <a>Food Delivery Application </a> where civilians can
-              order food from local restaurants and a <a>Spotify Visualizer Application</a> that
-              visualizes personalized Spotify Data and creates new playlists of recommended tracks.
+              I am currently working on a <a>Gamifying Productivity Application</a> that helps
+              people accomplish their goals using Gamification. Additionally, I have developed a{' '}
+              <a>Food Delivery Application </a> where customers can order food from local
+              restaurants and a <a>Spotify Visualizer Application</a> that visualizes personalized
+              Spotify Data and creates new playlists of recommended tracks.
             </p>
             {/* <p>
               I'm passionate about learning the latest and greatest technologies No matter what I am
