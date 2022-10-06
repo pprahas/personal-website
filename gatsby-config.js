@@ -3,8 +3,8 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Prahas Pattem',
-    description: 'Prahas Pattem is a computer science student at Purdue',
-    siteUrl: 'pprahas.com', // No trailing slash allowed!
+    description: 'Prahas Pattem is a computer science student at Purdue.',
+    siteUrl: 'https://pprahas.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
