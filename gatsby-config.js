@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: '',
-        short_name: '',
+        name: 'Prahas Pattem',
+        short_name: 'Prahas Pattem',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
