@@ -173,17 +173,18 @@ const About = () => {
               <a href="https://upstatement.com/">Upstatement</a> for a variety of clients.
             </p> */}
             <p>
-              I have worked as a <a>Software Engineering Intern </a> at a <a>startup </a> that
-              builds Conversational AI for Customer Support and at a <a>corporation</a> that
-              develops Cyber-Physical Systems for railways. I have also worked as a{' '}
+              I have worked as a <a>Software Engineer Intern </a> at a <a>startup </a> that builds
+              Conversational AI for Customer Support and at a <a>corporation</a> that develops
+              Cyber-Physical Systems for railways. I have also worked as a{' '}
               <a> Research and Development Intern</a> at a <a>consultant company.</a>
             </p>
             <p>
-              I am currently working on a <a>Gamifying Productivity Application</a> that helps
-              people accomplish their goals using Gamification. Additionally, I have developed a{' '}
-              <a>Food Delivery Application </a> where customers can order food from local
-              restaurants and a <a>Spotify Visualizer Application</a> that visualizes personalized
-              Spotify Data and creates new playlists of recommended tracks.
+              I recently built a <a>Gamifying Productivity Application</a> that helps people
+              accomplish their goals using Gamification. Additionally, I developed a{' '}
+              {/* <a>Food Delivery Application </a> where customers can order food from local */}
+              <a>Food Delivery Application </a> where customers can order food from restaurants and
+              a <a>Spotify Visualizer Application</a> that visualizes personalized Spotify Data and
+              creates new playlists of recommended tracks.
             </p>
             {/* <p>
               I'm passionate about learning the latest and greatest technologies No matter what I am
@@ -191,9 +192,9 @@ const About = () => {
               I do.
             </p> */}
             <p>
-              I am currently open to <a>internship opportunities </a> within the software
-              engineering discipline for <a>Summer 2023.</a> If you think we would be a great match,
-              I'd love to hear from you!
+              I am currently open to <a>internship opportunities </a> within the software engineer
+              discipline for <a>Summer 2023.</a> If you think we would be a great match, I'd love to
+              hear from you!
             </p>
             <StyledHeroSection>
               <div>

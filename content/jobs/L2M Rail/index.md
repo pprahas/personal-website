@@ -1,6 +1,6 @@
 ---
 date: '2021-12-21'
-title: 'Software Engineering Intern'
+title: 'Software Engineer Intern'
 company: 'L2M Rail '
 location: 'Bengaluru, India'
 range: 'May 2021 - August 2021'

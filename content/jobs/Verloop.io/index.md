@@ -1,6 +1,6 @@
 ---
 date: '2022-04-01'
-title: 'Software Engineering Intern'
+title: 'Software Engineer Intern'
 company: 'Verloop.io'
 location: 'Northeastern University'
 range: 'May 2022 - August 2022'
