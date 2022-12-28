@@ -8147,6 +8147,42 @@ const IconCodepen = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___defaul
 
 /***/ }),
 
+/***/ "./src/components/icons/discord.js":
+/*!*****************************************!*\
+  !*** ./src/components/icons/discord.js ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+const IconDiscord = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("svg", {
+  xmlns: "http://www.w3.org/2000/svg",
+  viewBox: "0 0 127.14 96.36"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("defs", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("style", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("g", {
+  id: "\u56FE\u5C42_2",
+  "data-name": "\u56FE\u5C42 2"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("g", {
+  id: "Discord_Logos",
+  "data-name": "Discord Logos"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("g", {
+  id: "Discord_Logo_-_Large_-_White",
+  "data-name": "Discord Logo - Large - White"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("path", {
+  class: "cls-1",
+  d: "M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"
+})))));
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (IconDiscord);
+
+/***/ }),
+
 /***/ "./src/components/icons/external.js":
 /*!******************************************!*\
   !*** ./src/components/icons/external.js ***!
@@ -8401,11 +8437,14 @@ const Icon = ({
     case 'Star':
       return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_icons__WEBPACK_IMPORTED_MODULE_2__.IconStar, null);
 
+    case 'Discord':
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_icons__WEBPACK_IMPORTED_MODULE_2__.IconDiscord, null);
+
     case 'Twitter':
       return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_icons__WEBPACK_IMPORTED_MODULE_2__.IconTwitter, null);
 
     case 'Home':
-      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_icons__WEBPACK_IMPORTED_MODULE_2__.IconHome, null);
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(IconHome, null);
 
     default:
       return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_icons__WEBPACK_IMPORTED_MODULE_2__.IconExternal, null);
@@ -8443,7 +8482,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "IconLogo": () => (/* reexport safe */ _logo__WEBPACK_IMPORTED_MODULE_12__.default),
 /* harmony export */   "IconPlayStore": () => (/* reexport safe */ _playstore__WEBPACK_IMPORTED_MODULE_13__.default),
 /* harmony export */   "IconStar": () => (/* reexport safe */ _star__WEBPACK_IMPORTED_MODULE_14__.default),
-/* harmony export */   "IconTwitter": () => (/* reexport safe */ _twitter__WEBPACK_IMPORTED_MODULE_15__.default)
+/* harmony export */   "IconTwitter": () => (/* reexport safe */ _twitter__WEBPACK_IMPORTED_MODULE_15__.default),
+/* harmony export */   "IconDiscord": () => (/* reexport safe */ _discord__WEBPACK_IMPORTED_MODULE_16__.default)
 /* harmony export */ });
 /* harmony import */ var _home__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./home */ "./src/components/icons/home.js");
 /* harmony import */ var _appstore__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./appstore */ "./src/components/icons/appstore.js");
@@ -8461,6 +8501,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _playstore__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./playstore */ "./src/components/icons/playstore.js");
 /* harmony import */ var _star__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./star */ "./src/components/icons/star.js");
 /* harmony import */ var _twitter__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./twitter */ "./src/components/icons/twitter.js");
+/* harmony import */ var _discord__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./discord */ "./src/components/icons/discord.js");
+
 
 
 
@@ -9422,7 +9464,7 @@ const About = () => {
     className: "numbered-heading"
   }, "About Me"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "inner"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledText, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Hi! I am ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Prahas Pattem,"), " an undergraduate student at Purdue University with a major in computer science and a minor in mathematics. I will be graduating in December 2023."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I have worked as a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Software Engineering Intern "), " at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "startup "), " that builds Conversational AI for Customer Support and at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "corporation"), " that develops Cyber-Physical Systems for railways. I have also worked as a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Research and Development Intern"), " at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "consultant company.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I am currently working on a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Gamifying Productivity Application"), " that helps people accomplish their goals using Gamification. Additionally, I have developed a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Food Delivery Application "), " where customers can order food from local restaurants and a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Spotify Visualizer Application"), " that visualizes personalized Spotify Data and creates new playlists of recommended tracks."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I am currently open to ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "internship opportunities "), " within the software engineering discipline for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Summer 2023."), " If you think we would be a great match, I'd love to hear from you!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledHeroSection, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledText, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Hi! I am ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Prahas Pattem,"), " an undergraduate student at Purdue University with a major in computer science and a minor in mathematics. I will be graduating in December 2023."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I have worked as a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Software Engineer Intern "), " at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "startup "), " that builds Conversational AI for Customer Support and at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "corporation"), " that develops Cyber-Physical Systems for railways. I have also worked as a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Research and Development Intern"), " at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "consultant company.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I recently built a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Gamifying Productivity Application"), " that helps people accomplish their goals using Gamification. Additionally, I developed a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Food Delivery Application "), " where customers can order food from restaurants and a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Spotify Visualizer Application"), " that visualizes personalized Spotify Data and creates new playlists of recommended tracks."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I am currently open to ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "internship opportunities "), " within the software engineer discipline for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Summer 2023."), " If you think we would be a great match, I'd love to hear from you!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledHeroSection, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     className: "email-link" // href="https://www.newline.co/courses/build-a-spotify-connected-app"
     ,
     href: "/#contact"
@@ -9731,7 +9773,7 @@ const Hero = () => {
   // );
   // const three = <h3 className="big-heading"> </h3>;
 
-  const four = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I have a passion for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " high quality software"), " and I enjoy developing software applications to solve real-life problems. I am looking for a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Software Engineering Internship"), " for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Summer 2023.")));
+  const four = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I have a passion for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " high quality software"), " and I enjoy developing software applications to solve real-life problems. I am looking for a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Software Engineer Internship"), " for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Summer 2023.")));
   const five = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     className: "email-link" // href="https://www.newline.co/courses/build-a-spotify-connected-app"
     ,
@@ -10266,29 +10308,27 @@ Social.propTypes = {
 
 module.exports = {
   email: 'p.prahas@protonmail.com',
-  socialMedia: [// {
-  //   name: 'Home',
-  //   url: '/',
-  // },
-  {
+  socialMedia: [{
+    name: 'Home',
+    url: '/'
+  }, {
     name: 'GitHub',
     url: 'https://github.com/pprahas'
   }, // {
-  //   name: 'Star',
-  //   url: 'https://www.instagram.com/bchiang7',
-  // },
-  // {
   //   name: 'Twitter',
   //   url: 'https://twitter.com/bchiang7',
   // },
   {
     name: 'Linkedin',
     url: 'https://www.linkedin.com/in/pprahas'
-  } // {
+  }, // {
   //   name: 'Codepen',
   //   url: 'https://codepen.io/bchiang7',
   // },
-  ],
+  {
+    name: 'Discord',
+    url: 'https://discordapp.com/users/361198088209170432'
+  }],
   navLinks: [{
     name: 'About',
     url: '/#about'
@@ -51481,7 +51521,7 @@ module.exports = JSON.parse('{"data":{"projects":{"edges":[{"node":{"frontmatter
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"data":{"jobs":{"edges":[{"node":{"frontmatter":{"title":"Software Engineering Intern","company":"Verloop.io","location":"Northeastern University","range":"May 2022 - August 2022","url":"https://verloop.io/"},"html":"<ul>\\n<li>Developed an application that integrated with a multilingual Chatbot to facilitate compatibility between Instagram, WhatsApp, and Messenger for customer support.</li>\\n<li>Automated work for ~30% of the employees by implementing REST APIs using Facade Patterns and optimized the response time for APIs.</li>\\n<li>Built and deployed a backend server using FastAPI that serves to a frontend designed with React and TypeScript.</li>\\n</ul>"}},{"node":{"frontmatter":{"title":"Research and Development Intern","company":"AVS Consultants Inc","location":"Rolling Meadows, Illinois","range":"August 2021 - December 2021","url":"https://avsconsultants.com/"},"html":"<ul>\\n<li>Conducted user group reviews and technology roadmap plannings to establish baselines against benchmarking for SAT Daily application.</li>\\n<li>Collaborated on building design docs with UML tools that incorporated the findings of technical discussions.</li>\\n<li>Mitigated technical risks by prototyping and PoC.</li>\\n</ul>"}},{"node":{"frontmatter":{"title":"Software Engineering Intern","company":"L2M Rail ","location":"Bengaluru, India","range":"May 2021 - August 2021","url":"https://l2mrail.com/"},"html":"<ul>\\n<li>Built a cloud server using Digital Twin technology to process live data from edge servers to evaluate point machine operations, thereby gaining a 50% reduction in human force and a 40% improvement in operational efficiency.</li>\\n<li>Employed MQTT and Kafka to exchange messages between the edge server and the cloud server.</li>\\n<li>Generated microservices and REST APIs in Java, orchestrated using Kubernetes and Docker, and used MongoDB for storing data.</li>\\n</ul>"}}]}}}');
+module.exports = JSON.parse('{"data":{"jobs":{"edges":[{"node":{"frontmatter":{"title":"Software Engineer Intern","company":"Verloop.io","location":"Northeastern University","range":"May 2022 - August 2022","url":"https://verloop.io/"},"html":"<ul>\\n<li>Developed an application that integrated with a multilingual Chatbot to facilitate compatibility between Instagram, WhatsApp, and Messenger for customer support.</li>\\n<li>Automated work for ~30% of the employees by implementing REST APIs using Facade Patterns and optimized the response time for APIs.</li>\\n<li>Built and deployed a backend server using FastAPI that serves to a frontend designed with React and TypeScript.</li>\\n</ul>"}},{"node":{"frontmatter":{"title":"Research and Development Intern","company":"AVS Consultants Inc","location":"Rolling Meadows, Illinois","range":"August 2021 - December 2021","url":"https://avsconsultants.com/"},"html":"<ul>\\n<li>Conducted user group reviews and technology roadmap plannings to establish baselines against benchmarking for SAT Daily application.</li>\\n<li>Collaborated on building design docs with UML tools that incorporated the findings of technical discussions.</li>\\n<li>Mitigated technical risks by prototyping and PoC.</li>\\n</ul>"}},{"node":{"frontmatter":{"title":"Software Engineer Intern","company":"L2M Rail ","location":"Bengaluru, India","range":"May 2021 - August 2021","url":"https://l2mrail.com/"},"html":"<ul>\\n<li>Built a cloud server using Digital Twin technology to process live data from edge servers to evaluate point machine operations, thereby gaining a 50% reduction in human force and a 40% improvement in operational efficiency.</li>\\n<li>Employed MQTT and Kafka to exchange messages between the edge server and the cloud server.</li>\\n<li>Generated microservices and REST APIs in Java, orchestrated using Kubernetes and Docker, and used MongoDB for storing data.</li>\\n</ul>"}}]}}}');
 
 /***/ }),
 

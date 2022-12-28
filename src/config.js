@@ -12,10 +12,6 @@ module.exports = {
     },
 
     // {
-    //   name: 'Star',
-    //   url: 'https://www.instagram.com/bchiang7',
-    // },
-    // {
     //   name: 'Twitter',
     //   url: 'https://twitter.com/bchiang7',
     // },
@@ -27,6 +23,10 @@ module.exports = {
     //   name: 'Codepen',
     //   url: 'https://codepen.io/bchiang7',
     // },
+    {
+      name: 'Discord',
+      url: 'https://discordapp.com/users/361198088209170432',
+    },
   ],
 
   navLinks: [
