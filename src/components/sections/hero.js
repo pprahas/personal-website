@@ -97,14 +97,16 @@ const Hero = () => {
   );
 
   const five = (
-    <a
-      className="email-link"
-      // href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      href="/#about"
-      // target="_blank"
-      rel="noreferrer">
-      Learn More
-    </a>
+    <div>
+      <a
+        className="email-link"
+        // href="https://www.newline.co/courses/build-a-spotify-connected-app"
+        href="/#about"
+        // target="_blank"
+        rel="noreferrer">
+        Learn More
+      </a>
+    </div>
   );
 
   const items = [one, two, three, four, five];
