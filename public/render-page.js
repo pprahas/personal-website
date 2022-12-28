@@ -10308,10 +10308,11 @@ Social.propTypes = {
 
 module.exports = {
   email: 'p.prahas@protonmail.com',
-  socialMedia: [{
-    name: 'Home',
-    url: '/'
-  }, {
+  socialMedia: [// {
+  //   name: 'Home',
+  //   url: '/',
+  // },
+  {
     name: 'GitHub',
     url: 'https://github.com/pprahas'
   }, // {
