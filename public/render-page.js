@@ -9385,6 +9385,13 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+const StyledHeroSection = styled_components__WEBPACK_IMPORTED_MODULE_4__.default.section.withConfig({
+  displayName: "about__StyledHeroSection"
+})(["", ";flex-direction:column;align-items:flex-start;min-height:20vh;padding:0;.email-link{", ";}"], ({
+  theme
+}) => theme.mixins.flexCenter, ({
+  theme
+}) => theme.mixins.bigButton);
 const StyledAboutSection = styled_components__WEBPACK_IMPORTED_MODULE_4__.default.section.withConfig({
   displayName: "about__StyledAboutSection"
 })(["max-width:900px;.inner{display:grid;grid-template-columns:3fr 2fr;grid-gap:50px;@media (max-width:768px){display:block;}}"]);
@@ -9415,12 +9422,20 @@ const About = () => {
     className: "numbered-heading"
   }, "About Me"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "inner"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledText, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Hi! I am ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Prahas Pattem,"), " an undergraduate student at Purdue University with a major in computer science and a minor in mathematics. I will be graduating in December 2023."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I have worked as a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Software Engineering Intern "), " at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "startup "), " that builds Conversational AI for Customer Support and at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "corporation"), " that develops Cyber-Physical Systems for railways. I have also worked as a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Research and Development Intern"), " at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "consultant company.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I am currently working on a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Gamifying Productivity Application"), " that helps people accomplish their goals using Gamification. Additionally, I have developed a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Food Delivery Application "), " where customers can order food from local restaurants and a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Spotify Visualizer Application"), " that visualizes personalized Spotify Data and creates new playlists of recommended tracks."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I am currently open to ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "internship opportunities "), " within the software engineering discipline for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Summer 2023."), " If you think we would be a great match, I'd love to hear from you!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "You can find my contact details ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledText, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Hi! I am ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Prahas Pattem,"), " an undergraduate student at Purdue University with a major in computer science and a minor in mathematics. I will be graduating in December 2023."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I have worked as a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Software Engineering Intern "), " at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "startup "), " that builds Conversational AI for Customer Support and at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "corporation"), " that develops Cyber-Physical Systems for railways. I have also worked as a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Research and Development Intern"), " at a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "consultant company.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I am currently working on a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Gamifying Productivity Application"), " that helps people accomplish their goals using Gamification. Additionally, I have developed a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Food Delivery Application "), " where customers can order food from local restaurants and a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Spotify Visualizer Application"), " that visualizes personalized Spotify Data and creates new playlists of recommended tracks."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I am currently open to ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "internship opportunities "), " within the software engineering discipline for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Summer 2023."), " If you think we would be a great match, I'd love to hear from you!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledHeroSection, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    className: "email-link" // href="https://www.newline.co/courses/build-a-spotify-connected-app"
+    ,
     href: "/#contact"
-  }, "here"), " and my resume", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-    href: "/resume.pdf",
-    target: "_blank"
-  }, "here.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledPic, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  }, "Contact Details"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    className: "email-link" // href="https://www.newline.co/courses/build-a-spotify-connected-app"
+    ,
+    style: {
+      marginLeft: '2rem',
+      width: '10rem'
+    },
+    target: "_blank",
+    href: "/resume.pdf"
+  }, "\u3164\u3164Resume"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledPic, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "wrapper"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_5__.StaticImage, {
     className: "img",
@@ -9717,13 +9732,13 @@ const Hero = () => {
   // const three = <h3 className="big-heading"> </h3>;
 
   const four = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I have a passion for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " high quality software"), " and I enjoy developing software applications to solve real-life problems. I am looking for a", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, " Software Engineering Internship"), " for ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", null, "Summer 2023.")));
-  const five = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  const five = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     className: "email-link" // href="https://www.newline.co/courses/build-a-spotify-connected-app"
     ,
     href: "/#about" // target="_blank"
     ,
     rel: "noreferrer"
-  }, "Learn More");
+  }, "Learn More"));
   const items = [one, two, three, four, five];
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(StyledHeroSection, null, prefersReducedMotion ? /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, items.map((item, i) => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     key: i

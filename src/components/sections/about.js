@@ -1,9 +1,21 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
 import { srConfig } from '@config';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
+
+const StyledHeroSection = styled.section`
+  ${({ theme }) => theme.mixins.flexCenter};
+  flex-direction: column;
+  align-items: flex-start;
+  min-height: 20vh;
+  padding: 0;
+
+  .email-link {
+    ${({ theme }) => theme.mixins.bigButton};
+  }
+`;
 
 const StyledAboutSection = styled.section`
   max-width: 900px;
@@ -183,12 +195,32 @@ const About = () => {
               engineering discipline for <a>Summer 2023.</a> If you think we would be a great match,
               I'd love to hear from you!
             </p>
-            <p>
+            <StyledHeroSection>
+              <div>
+                <a
+                  className="email-link"
+                  // href="https://www.newline.co/courses/build-a-spotify-connected-app"
+                  href="/#contact">
+                  Contact Details
+                </a>
+
+                <a
+                  className="email-link"
+                  // href="https://www.newline.co/courses/build-a-spotify-connected-app"
+                  style={{ marginLeft: '2rem', width: '10rem' }}
+                  target="_blank"
+                  href="/resume.pdf">
+                  ㅤㅤResume
+                </a>
+              </div>
+            </StyledHeroSection>
+            {/* <p>
               You can find my contact details <a href="/#contact">here</a> and my resume{' '}
               <a href="/resume.pdf" target="_blank">
                 here.
               </a>
-            </p>
+            </p> */}
+
             {/* <p>
               I am currently looking for a <a>Software Engineering Internship</a> for Summer 2023.
               If you wish to get in touch, you can find my contact details{' '}
