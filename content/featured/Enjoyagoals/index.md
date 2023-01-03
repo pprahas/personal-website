@@ -1,14 +1,15 @@
 ---
-date: '1'
+date: '2'
 title: 'Enjoyagoals'
 cover: './enjoyagoals.png'
-external: 'https://drive.google.com/drive/folders/1fWubjkSDN0KiOM46gDarkS-kDyc0902Y'
+github: 'https://github.com/pprahas/Enjoyagoals'
 tech:
   - React
-  - Redux
-  - Node
+  - Node.js
   - Express
+  - Docker
   - MongoDB
+  - Redux
   - Git
   - Azure
 ---
