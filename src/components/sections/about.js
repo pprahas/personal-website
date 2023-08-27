@@ -159,9 +159,11 @@ const About = () => {
               interest in web development started back in 2012 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS! */}
-              Hi! I am <a> Prahas Pattem,</a> an undergraduate student at Purdue University with a
+              {/* Hi! I am <a> Prahas Pattem,</a> an undergraduate student at Purdue University with a
               major in computer science and a minor in mathematics. I will be graduating in December
-              2023.
+              2023. */}
+              Hi! I'm <a>Prahas Pattem</a>, an undergraduate student at Purdue University majoring
+              in computer science. I'll be graduating in December 2023.
             </p>
             {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at <a>a start up </a>,{' '}
@@ -173,27 +175,44 @@ const About = () => {
               <a href="https://upstatement.com/">Upstatement</a> for a variety of clients.
             </p> */}
             <p>
+              I've gained valuable experience as a <a>Software Engineer Intern</a> at a{' '}
+              <a>startup </a> specializing in Conversational AI for Customer Support, as well as at
+              a <a>corporation</a> dedicated to the development of Cyber-Physical Systems for
+              railways. Additionally, I've contributed as an <a>Undergraduate Research Assistant</a>{' '}
+              at Purdue University and further expanded my skills as a{' '}
+              <a>Research and Development Intern</a> at a <a>consulting company.</a>
+            </p>
+            {/* <p>
               I have worked as a <a>Software Engineer Intern </a> at a <a>startup </a> that builds
               Conversational AI for Customer Support and at a <a>corporation</a> that develops
               Cyber-Physical Systems for railways. I have also worked as a{' '}
               <a> Research and Development Intern</a> at a <a>consultant company.</a>
-            </p>
+            </p> */}
             <p>
+              I'm currently working on an <a>AI-powered healthcare application</a> wherein users can
+              self-diagnose using AI and get it reviewed by an actual doctor. Furthermore, I've
+              created an Android application that uses the <a>Alexa Voice Service </a> to perform
+              audio operations, such as general questions, weather forecasts, Android-specific
+              operations, and other Alexa functionalities. Additionally, I've developed a{' '}
+              <a>Gamifying Productivity Application</a> designed to assist individuals and groups in
+              achieving their goals through gamification.
+            </p>
+            {/* <p>
               I am currently working on an <a>Online Auction System</a> where users can sell or buy
               items through bidding. Additionally, I have developed a{' '}
               <a>Gamifying Productivity Application </a> that helps people accomplish their goals
               using Gamification and a <a>Food Delivery Application </a> where customers can order
               food from local restaurants.
-            </p>
+            </p> */}
             {/* <p>
               I'm passionate about learning the latest and greatest technologies No matter what I am
               working on, I am sure to bring my curiosity and different thinking hats to everything
               I do.
             </p> */}
             <p>
-              I am currently open to <a>internship opportunities </a> within the software engineer
-              discipline for <a>Summer 2023.</a> If you think we would be a great match, I'd love to
-              hear from you!
+              I'm currently open to <a>New Grad Full-Time Sofware Engineer</a> positions for{' '}
+              <a>Spring 2023. </a> If you think we would be a great match, I'd love to hear from
+              you!
             </p>
             <StyledHeroSection>
               <div>

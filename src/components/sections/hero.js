@@ -89,9 +89,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
+        {/* I have a passion for <a> high quality software</a> and I enjoy developing software
+        applications to solve real-life problems. I am currently looking for{' '}
+        <a>full-time Software Engineer </a> roles for <a>Spring 2023.</a> */}
         I have a passion for <a> high quality software</a> and I enjoy developing software
-        applications to solve real-life problems. I am looking for a{' '}
-        <a> Software Engineer Internship</a> for <a>Summer 2023.</a>
+        applications to solve real-life problems. I am currently looking for{' '}
+        <a>New Grad Full-Time Sofware Engineer</a> positions for <a>Spring 2023.</a>
       </p>
     </>
   );

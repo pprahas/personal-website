@@ -7,6 +7,6 @@ range: 'August 2021 - December 2021'
 url: 'https://avsconsultants.com/'
 ---
 
-- Conducted user group reviews and technology roadmap plannings to establish baselines against benchmarking for SAT Daily application.
-- Collaborated on building design docs with UML tools that incorporated the findings of technical discussions.
-- Mitigated technical risks by prototyping and PoC.
+- Facilitated user group reviews and technology roadmap planning sessions to establish benchmarks for SAT Daily application.
+- Contributed to the development of design docs using UML tools while adding insights from technical discussions.
+- Mitigated technical risks by engaging in prototyping and PoC initiatives.

@@ -5,9 +5,9 @@ cover: './demo.png'
 github: 'https://github.com/pprahas/Avocado'
 external: 'https://avocado-food-delivery.netlify.app/'
 tech:
-  - Python
-  - JavaScript
-  - HTML/CSS
+  - React
+  - Django (Python)
+  - Docker
   - MySQL
   - Git
   - AWS

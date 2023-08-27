@@ -7,6 +7,6 @@ range: 'May 2021 - August 2021'
 url: 'https://l2mrail.com/'
 ---
 
-- Built a cloud server using Digital Twin technology to process live data from edge servers to evaluate point machine operations, thereby gaining a 50% reduction in human force and a 40% improvement in operational efficiency.
-- Employed MQTT and Kafka to exchange messages between the edge server and the cloud server.
-- Generated microservices and REST APIs in Java, orchestrated using Kubernetes and Docker, and used MongoDB for storing data.
+- Built a cloud server using Digital Twin technology to process live data from edge servers to evaluate point machine operations, thereby gaining a 50\% reduction in human force and a 40\% improvement in operational efficiency.
+- Utilized MQTT and Kafka for facilitating message exchange between the edge server and the cloud server.
+- Developed microservices and REST APIs in Java, orchestrated them using Kubernetes and Docker, and employed MongoDB for data storage.

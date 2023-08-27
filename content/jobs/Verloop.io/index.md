@@ -7,6 +7,6 @@ range: 'May 2022 - August 2022'
 url: 'https://verloop.io/'
 ---
 
-- Developed an application that integrated with a multilingual Chatbot to facilitate compatibility between Instagram, WhatsApp, and Messenger for customer support.
-- Automated work for ~30% of the employees by implementing REST APIs using Facade Patterns and optimized the response time for APIs.
-- Built and deployed a backend server using FastAPI that serves to a frontend designed with React and TypeScript.
+- Created an application that seamlessly integrated with a multilingual Chatbot to enhance compatibility across Instagram, WhatsApp, and Messenger platforms for streamlined customer support.
+- Automated tasks for ~30\% of the workforce by implementing REST APIs using Facade Patterns, consequently optimizing API response times.
+- Developed and deployed a backend server using FastAPI to serve a frontend built with React and TypeScript.

@@ -8,10 +8,11 @@ tech:
   - Node.js
   - Express
   - Docker
+  - Kubernetes
   - MongoDB
   - Redux
   - Git
   - Azure
 ---
 
-A <a>social media application</a> that helps either an individual or a team to accomplish their goals using <a>Gamification.</a>
+A <a>social media application</a> that enables the achievement of individual or team goals through <a>Gamification</a>.
