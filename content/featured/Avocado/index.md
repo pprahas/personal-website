@@ -3,7 +3,6 @@ date: '3'
 title: 'Avocado'
 cover: './demo.png'
 github: 'https://github.com/pprahas/Avocado'
-external: 'https://avocado-food-delivery.netlify.app/'
 tech:
   - React
   - Django (Python)
@@ -13,4 +12,4 @@ tech:
   - AWS
 ---
 
-A full stack <a> food delivery application</a> that allows customers to <a>order food</a> from local restaurants.
+A <a>food delivery platform</a> with personalized orders, real-time tracking, secure payments, and dedicated customer support for <a>users and restaurant owners.</a>

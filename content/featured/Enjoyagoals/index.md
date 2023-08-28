@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Enjoyagoals'
+title: 'EnjoyaGoals'
 cover: './enjoyagoals.png'
 github: 'https://github.com/pprahas/Enjoyagoals'
 tech:
@@ -15,4 +15,4 @@ tech:
   - Azure
 ---
 
-A <a>social media application</a> that enables the achievement of individual or team goals through <a>Gamification</a>.
+A <a>gamification platform</a> that integrates social media elements to help the achievement of both <a>individual and team objectives</a> to enhance productivity.
