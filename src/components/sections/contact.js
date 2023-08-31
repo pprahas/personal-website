@@ -73,7 +73,8 @@ const Contact = () => {
           LinkedIn
         </a>{' '}
         under the handle @pprahas.
-        {'        '} Feel free to connect with me at <a>p.prahas@protonmail.com</a> or{' '}
+        {'        '} Feel free to connect with me at{' '}
+        <a href="mailto:p.prahas@protonmail.com">p.prahas@protonmail.com</a> or{' '}
         <a>(765) 250-0648</a>
       </p>
       <a className="email-link" href={`mailto:${email}`}>
