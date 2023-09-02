@@ -211,7 +211,7 @@ const About = () => {
             </p> */}
             <p>
               I'm currently open to <a>New Grad Full-Time Sofware Engineer</a> positions starting{' '}
-              <a>Spring 2023. </a> If you think we would be a great match, I'd love to hear from
+              <a>Spring 2024. </a> If you think we would be a great match, I'd love to hear from
               you!
             </p>
             <StyledHeroSection>
