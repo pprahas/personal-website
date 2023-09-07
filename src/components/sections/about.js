@@ -174,14 +174,25 @@ const About = () => {
               these days is building accessible, inclusive products and digital experiences at{' '}
               <a href="https://upstatement.com/">Upstatement</a> for a variety of clients.
             </p> */}
-            <p>
+            {/* <p>
               I've gained valuable experience as a <a>Software Engineer Intern</a> at a{' '}
               <a>startup </a> specializing in Conversational AI for Customer Support, as well as at
               a <a>corporation</a> dedicated to the development of Cyber-Physical Systems for
-              railways. Additionally, I've contributed as an <a>Undergraduate Research Assistant</a>{' '}
-              at Purdue University and further expanded my skills as a{' '}
-              <a>Research and Development Intern</a> at a <a>consulting company.</a>
+              railways, and another <a>company</a> Additionally, I've contributed as an{' '}
+              <a>Undergraduate Research Assistant</a> at Purdue University and further expanded my
+              skills as a <a>Research and Development Intern</a> at a <a>consulting company.</a>
+            </p> */}
+
+            <p>
+              I've gained valuable experience as a <a>Software Engineer Intern</a> working in{' '}
+              <a>three different companies.</a> The first company was a <a>startup</a> specializing
+              in Conversational AI for Customer Support. The second company was a <a>corporation</a>{' '}
+              dedicated to the development of Cyber-Physical Systems for railways. The third company
+              was a <a>consulting corporation.</a> Additionally, I've contributed as an{' '}
+              <a>Undergraduate Software Development</a> <a>Assistant</a> at Purdue University where
+              my work led to a <a>publication.</a>
             </p>
+
             {/* <p>
               I have worked as a <a>Software Engineer Intern </a> at a <a>startup </a> that builds
               Conversational AI for Customer Support and at a <a>corporation</a> that develops
