@@ -70,7 +70,7 @@ const Hero = () => {
   // );
   const three = (
     <h3 className="medium-heading">
-      <Typed strings={['a computer science student at Purdue.']} typeSpeed={75} />
+      <Typed strings={['a Purdue Computer Science Graduate.']} typeSpeed={75} />
     </h3>
   );
   // const three = <h3 className="big-heading"> </h3>;

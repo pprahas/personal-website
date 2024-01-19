@@ -162,8 +162,8 @@ const About = () => {
               {/* Hi! I am <a> Prahas Pattem,</a> an undergraduate student at Purdue University with a
               major in computer science and a minor in mathematics. I will be graduating in December
               2023. */}
-              Hi! I'm <a>Prahas Pattem</a>, an undergraduate student at Purdue University majoring
-              in computer science. I'll be graduating in December 2023.
+              Hi! I'm <a>Prahas Pattem</a>, a Purdue alum with a Bachelor of Science in Computer
+              Science, Class of December 2023.
             </p>
             {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at <a>a start up </a>,{' '}
@@ -183,7 +183,7 @@ const About = () => {
               skills as a <a>Research and Development Intern</a> at a <a>consulting company.</a>
             </p> */}
 
-            <p>
+            {/* <p>
               I've gained valuable experience as a <a>Software Engineer Intern</a> working in{' '}
               <a>three different companies.</a> The first company was a <a>startup</a> specializing
               in Conversational AI for Customer Support. The second company was a <a>corporation</a>{' '}
@@ -191,6 +191,16 @@ const About = () => {
               was a <a>consulting corporation.</a> Additionally, I've contributed as an{' '}
               <a>Undergraduate Software Development</a> <a>Assistant</a> at Purdue University where
               my work led to a <a>publication.</a>
+            </p> */}
+
+            <p>
+              As a recent graduate, I've interned as a <a>Software Engineer</a> at{' '}
+              <a>three companies</a>, gaining hands-on experience in <a>diverse projects.</a> At a
+              startup, I contributed to an application with a <a>multilingual chatbot.</a> In a
+              corporate setting, I was involved in building a <a>cloud server</a> backed by digital
+              twin technology. At a consulting firm, my work centered around developing an{' '}
+              <a>analytics dashboard.</a> During my undergraduate studies at Purdue, I assisted in
+              software development, which contributed to a <a>research publication.</a>
             </p>
 
             {/* <p>
@@ -199,6 +209,16 @@ const About = () => {
               Cyber-Physical Systems for railways. I have also worked as a{' '}
               <a> Research and Development Intern</a> at a <a>consultant company.</a>
             </p> */}
+            <p>
+              More recently, I've ventured into the healthcare domain with an{' '}
+              <a>AI-powered application </a> designed to facilitate preliminary self-diagnosis,
+              subsequently reviewed by certified doctors. On another front, I developed an Android
+              app integrating <a>Alexa Voice Service,</a> enabling a variety of audio interactions
+              including Q&A, weather updates, and other Alexa services. Additionally, I have
+              designed a <a>gamified productivity application </a> that aids individuals and groups
+              in goal attainment through engaging game-like elements.
+            </p>
+
             <p>
               I'm currently working on an <a>AI-powered healthcare application</a> wherein users can
               self-diagnose using AI and get it reviewed by an actual doctor. Furthermore, I've
