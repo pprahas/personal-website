@@ -219,7 +219,7 @@ const About = () => {
               in goal attainment through engaging game-like elements.
             </p>
 
-            <p>
+            {/* <p>
               I'm currently working on an <a>AI-powered healthcare application</a> wherein users can
               self-diagnose using AI and get it reviewed by an actual doctor. Furthermore, I've
               created an Android application that uses the <a>Alexa Voice Service </a> to perform
@@ -227,7 +227,7 @@ const About = () => {
               operations, and other Alexa functionalities. Additionally, I've developed a{' '}
               <a>Gamifying Productivity Application</a> designed to assist individuals and groups in
               achieving their goals through gamification.
-            </p>
+            </p> */}
             {/* <p>
               I am currently working on an <a>Online Auction System</a> where users can sell or buy
               items through bidding. Additionally, I have developed a{' '}
