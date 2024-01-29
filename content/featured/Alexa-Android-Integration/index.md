@@ -7,6 +7,8 @@ tech:
   - Java
   - Alexa Voice Service
   - Android Studio
+  - Maven
+  - Gradle
   - XML
   - Git
   - AWS
