@@ -5,10 +5,10 @@ cover: './health_aid.png'
 github: 'https://github.com/pprahas/HealthAid'
 tech:
   - React (TS)
-  - Node.js (TS)
-  - Express (TS)
   - ChatGPT
   - OpenAI
+  - Node.js (TS)
+  - Express (TS)
   - Docker
   - Kubernetes
   - MongoDB
