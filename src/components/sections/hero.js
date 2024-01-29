@@ -33,6 +33,7 @@ const StyledHeroSection = styled.section`
     margin-top: 10px;
     color: var(--slate);
     line-height: 0.9;
+    font-size: clamp(54px, 2.5vw, 16px);
   }
 
   p {
@@ -60,7 +61,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi! I'm</h1>;
-  const two = <h2 className="big-heading">Prahas Pattem,</h2>;
+  const two = <h2 className="big-heading">Prahas Pattem.</h2>;
   // const three = <h3 className="big-heading">I build things for the web.</h3>;
   // const three = (
   //   <h3 className="big-heading">
@@ -70,7 +71,9 @@ const Hero = () => {
   // );
   const three = (
     <h3 className="medium-heading">
-      <Typed strings={['a Purdue Computer Science Graduate.']} typeSpeed={75} />
+      {/* <Typed strings={['Computer Science alum from Purdue.']} typeSpeed={76} /> */}
+      {/* <Typed strings={['B.S. in Computer Science, Purdue.']} typeSpeed={76} /> */}
+      <Typed strings={['Computer Science Graduate from Purdue.']} typeSpeed={76} />
     </h3>
   );
   // const three = <h3 className="big-heading"> </h3>;

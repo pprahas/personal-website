@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'EnjoyaGoals'
+title: 'Gamifying Productivity'
 cover: './enjoyagoals.png'
 github: 'https://github.com/pprahas/Enjoyagoals'
 tech:

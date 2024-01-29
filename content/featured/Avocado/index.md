@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Avocado'
+title: 'Food Delivery'
 cover: './demo.png'
 github: 'https://github.com/pprahas/Avocado'
 tech:

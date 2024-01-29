@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Prahas Pattem',
     description:
-      'Prahas Pattem is a computer science student at Purdue University who is currently seeking a Full-Time New Grad 2024 position.',
+      'Prahas Pattem is a computer science graduate from Purdue who is currently seeking a Full-Time New Grad 2024 position.',
     siteUrl: 'https://pprahas.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
