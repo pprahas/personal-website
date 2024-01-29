@@ -9,6 +9,7 @@ tech:
   - Express
   - Docker
   - PostgreSQL
+  - Git
   - GCP
 ---
 

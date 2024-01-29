@@ -8,9 +8,11 @@ tech:
   - Node.js (TS)
   - Express (TS)
   - ChatGPT
+  - OpenAI
   - Docker
   - Kubernetes
   - MongoDB
+  - Git
   - GCP
 ---
 
